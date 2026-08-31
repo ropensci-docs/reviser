@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "411cd720f23bd49efaa0ef7e6998309acd5477a2",
+    "author": "Marc Burri <marc.burri91@gmail.com>",
+    "time": "2026-08-31T08:15:57Z",
+    "files": 4,
+    "merge": false,
+    "message": "fix: ridge-regularized solve\n"
+  },
+  "repo": "https://github.com/ropensci/reviser",
+  "pkg": "reviser",
+  "time": "2026-08-31T13:33:59Z"
+}
