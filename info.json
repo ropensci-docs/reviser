@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "2a96be4be728c7b8c4210456379e1e3779818db1",
+    "author": "Marc Burri <marc.burri91@gmail.com>",
+    "time": "2026-09-14T09:52:25Z",
+    "files": 9,
+    "merge": false,
+    "message": "apply goodpractice\n"
+  },
+  "repo": "https://github.com/ropensci/reviser",
+  "pkg": "reviser",
+  "time": "2026-11-21T13:40:30Z"
+}
